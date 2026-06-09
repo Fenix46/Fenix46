@@ -37,8 +37,7 @@ Maybe I'm a software engineer, or a vibe coder. Distorted Future.
 ### 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fenix46&show_icons=true&theme=tokyonight&count_private=true" alt="Fenix46 GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fenix46&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fenix46&theme=tokyonight" alt="GitHub Streak Stats" width="80%" />
 </p>
 
 ---
